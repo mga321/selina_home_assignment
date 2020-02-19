@@ -14,7 +14,7 @@ This project is an analysis of the performance data for a a hospitality company.
 
 The project consists of 2 parts:
 - A GitHub repository with the original data files, the cleaned dataset, and gathering, assessing, cleaning, and exploration Jupyter Notebooks.
-- An online Tableau workbook. The workbook begins with the final presentation, and after viewing each slide of the final presentation you can view the raw Tableau analysis in the following slides.
+- An online Tableau workbook. The workbook begins with the final presentation, and after viewing each slide of the final presentation you can view the raw Tableau analysis in the following slides. Click this link to view both the Tableau presentation and exploration: https://public.tableau.com/views/SelinaHomeAssignment/PRE-PRESENTATIONNOTES?:display_count=y&:origin=viz_share_link
 
 
 # The Data:

@@ -8,7 +8,7 @@ Selina Home Assignment
 This project is an analysis of the performance data for a a hospitality company. The company offers accommodations, co-working spaces, and activities to travelers and locals. Guests can choose from private rooms, private rooms with a communal floor bathroom, and dorm style rooms based on their budget.
 
 The project consists of 2 parts:
-- A GitHub repository with the original data files, the cleaned dataset, and the gathering, assessing, and cleaning Jupyter Notebooks.
+- A GitHub repository with the original data files, the cleaned dataset, and Jupyter Notebooks for gathering, assessing, and cleaning data.
 - An online Tableau workbook containing both the final presentation.
 
 

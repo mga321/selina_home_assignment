@@ -14,7 +14,7 @@ This project is an analysis of the performance data for a a hospitality company.
 
 The project consists of 2 parts:
 - A GitHub repository with the original data files, the cleaned dataset, and the gathering, assessing, and cleaning Jupyter Notebooks.
-- An online Tableau workbook containing both the final presentation and the raw exploratory analysis in the same workbook, but separated by labeled slides.
+- An online Tableau workbook containing both the final presentation.
 
 
 # The Data:
@@ -25,6 +25,4 @@ The data consists of operational data for newly opened hotel locations within th
 
 # Final Presentation & Raw Tableau Exploration:
 
-The workbook begins with the final presentation, and after viewing each slide of the final presentation you can view the raw Tableau analysis in the following slides. In the menu at the top, every slide prior to "END OF PRESENTATION" is part of the final presentation and every slide after "END OF PRESENTATION" is part of the exploratory analysis done using Tableau. Both the final presentation and the raw exploration were inlcuded in one Tableau presentation for ease of viewing and switching back and forth between them.
-
-Click this link to view both the final Tableau presentation and raw exploration: https://public.tableau.com/views/SelinaHomeAssignment/PRE-PRESENTATIONNOTES?:display_count=y&:origin=viz_share_link
+Final Presentation Link: https://public.tableau.com/views/SelinaHomeAssignment/PRE-PRESENTATIONNOTES?:display_count=y&:origin=viz_share_link

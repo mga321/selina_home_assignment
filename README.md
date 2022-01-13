@@ -1,8 +1,3 @@
-# Programming Environment:
-- Python 3.7
-- Install requirements.txt file
-
-
 # Name:
 
 Selina Home Assignment
@@ -15,6 +10,11 @@ This project is an analysis of the performance data for a a hospitality company.
 The project consists of 2 parts:
 - A GitHub repository with the original data files, the cleaned dataset, and the gathering, assessing, and cleaning Jupyter Notebooks.
 - An online Tableau workbook containing both the final presentation.
+
+
+# Programming Environment:
+- Python 3.7
+- Install requirements.txt file
 
 
 # The Data:
